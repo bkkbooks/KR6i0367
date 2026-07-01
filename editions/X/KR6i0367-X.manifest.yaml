@@ -1,0 +1,50 @@
+canonical_identifier: bkk:krp/KR6i0367/X/v1
+canonical_location: https://kanripo.org/bkk/KR6i0367/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 盂蘭盆經疏新記
+  identifiers:
+    krp: KR6i0367
+    cbeta: X21n0372
+    cbeta_old_id: X21n0372
+    authorityid: CA0003842
+    json_key: X0372
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0372.xml
+    old_id: X21n0372
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0367_000-X.yaml, hash: 'sha256:4709fce0ea0e7aa5efcd623853d3fafa8cc1fb13f9e6cb4def290b77185408d8'}
+  - {seq: 1, filename: KR6i0367_001-X.yaml, hash: 'sha256:fcb568b6dd6efe6f3daec82e100f7d1fe850b8b4e2532d4e8125682815be3450'}
+  - {seq: 2, filename: KR6i0367_002-X.yaml, hash: 'sha256:0a0af9055e4539ae52d16e0995af67c03078f7ec07dfd53db9316185d7e19c79'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0367_000-X.markers.yaml, hash: 'sha256:6dbab38ba44902f9af76963cd691246e0c1ef384e664ef876940409c39b95fd2'}
+  - {seq: 1, role: markers, filename: assets/KR6i0367_001-X.markers.yaml, hash: 'sha256:e079464117a964137261806c1e9a54af4d7ae9d95f2755848d2b8b006029e1ce'}
+  - {seq: 2, role: markers, filename: assets/KR6i0367_002-X.markers.yaml, hash: 'sha256:1fcac2c34109211241857bf447ce2a6b17158f0289088024ed8549af31658bed'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0367_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 15522
+  label: 盂蘭盆經疏新記并序
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0367_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 16950
+  label: 盂蘭盆經疏新記卷下
+  type: juan
+  level: 1
+hash: sha256:5ce0812611e170d0dff90892ed6ab5b9e878feb881aff4d1d64f73a9c242dc39

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0367/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 盂蘭盆經疏新記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0372.xml
+    old_id: X21n0372
+hash: sha256:4709fce0ea0e7aa5efcd623853d3fafa8cc1fb13f9e6cb4def290b77185408d8
